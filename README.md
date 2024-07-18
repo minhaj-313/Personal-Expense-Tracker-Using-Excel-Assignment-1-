@@ -2,7 +2,7 @@
 
 This Personal Income & Expense Tracker is designed to help individuals manage their finances by tracking income sources and expenses on a monthly basis. Created using Excel, this tracker features:
 
-![Preview](expensestracker.png)
+![Preview](https://github.com/minhaj-313/Personal-Expense-Tracker-Using-Excel-Assignment-1-/blob/main/Personal%20Income%20&%20Expense%20Tracker%20By%20Shaikh%20Minhaj.png?raw=true)
 
 ## Features
 - **Income Tracking:** Categorized income sources including Salary, Rental Income, Delivered Stock Gains, and Freelancing.
